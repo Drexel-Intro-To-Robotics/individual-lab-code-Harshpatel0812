@@ -15,7 +15,7 @@ G = 0
 E = 0
 e_list = []
 '''
-These variables determine display coler, and can be changed by you, I guess
+These variables determine display color, and can be changed by you, I guess
 '''
 NEON_GREEN = (0, 255, 0)
 PURPLE = (85, 26, 139)
